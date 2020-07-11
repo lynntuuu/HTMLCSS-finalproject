@@ -126,6 +126,19 @@ body{
 /* banner */
 .banner{
     margin-bottom: 70px;
+    background: url(../images/banner.png) rgb(0, 0, 0,0) 50% no-repeat;
+    height: 346px;
+    position: relative;
+}
+
+.banner p{
+    position: absolute;
+    color: #fff;
+    font-size: 25px;
+    line-height: 1.5em;
+    margin-top: 130px;
+    margin-left: 30px;
+    background: rgb(0, 0, 0,0.2);
 }
 
 /* course */
